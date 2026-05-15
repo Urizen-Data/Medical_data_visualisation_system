@@ -1,6 +1,6 @@
 # Medical_data_visualisation_system
 
-[![Смотреть дашборд](https://img.shields.io/badge/🚀_DataLens-Туберкулёз_в_РФ_и_Иркутской_области-2a6d8f?style=for-the-badge&logo=databricks&logoColor=white)](https://datalens.ru/s3vte8xmi1wkc?_theme=dark)
+[![Смотреть дашборд](https://img.shields.io/badge/🚀_DataLens-Туберкулёз_в_РФ_и_Иркутской_области-2a6d8f?style=for-the-badge&logo=databricks&logoColor=white)](https://datalens.ru/s3vte8xmi1wkc)
 
 > (Рекомендуется тёмная тема, но можно отключить `?_theme=light`)
 
